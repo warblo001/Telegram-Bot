@@ -76,3 +76,5 @@ class Bot
     end
   end
 end
+
+# rubocop:enable Metrics/CyclomaticComplexity
