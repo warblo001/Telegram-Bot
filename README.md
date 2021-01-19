@@ -42,7 +42,7 @@ This Bot works only via Telegram, you can use it on your phone, Telegram Desktop
 
 To use the bot you need to type "/start", then a couple of options will pop up:
 
-![screenshot](/Screenshots/screenshot_1.jpg)
+![image](https://raw.githubusercontent.com/warblo001/Telegram-Bot/Features/Screenshots/Screenshot_1.jpg)
 
 - Playlists
 - Artists
@@ -50,8 +50,8 @@ To use the bot you need to type "/start", then a couple of options will pop up:
 
 After you choose one category you will need to select the next category and depending on it you will get results
 
-![screenshot](/Screenshots/screenshot_2.jpg)
-![screenshot](/Screenshots/screenshot_3.jpg)
+![image](Screenshots/screenshot_2.jpg)
+![image](Screenshots/screenshot_3.jpg)
 
 ## Contributing
 
