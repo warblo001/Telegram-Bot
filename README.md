@@ -50,8 +50,8 @@ To use the bot you need to type "/start", then a couple of options will pop up:
 
 After you choose one category you will need to select the next category and depending on it you will get results
 
-![image](Screenshots/screenshot_2.jpg)
-![image](Screenshots/screenshot_3.jpg)
+![image](https://raw.githubusercontent.com/warblo001/Telegram-Bot/Features/Screenshots/Screenshot_2.jpg)
+![image](https://raw.githubusercontent.com/warblo001/Telegram-Bot/Features/Screenshots/Screenshot_3.jpg)
 
 ## Contributing
 
