@@ -34,11 +34,11 @@ class Bot
     }
 
     @artist_pick = {
-      "60's" => 'The Beatles, Bob Dylan, Elvis Presley, The Beach Boys and The Rolling Stones',
-      "70's" => 'Led Zeppelin, Stevie Wonder, Pink Floyd, Queen, David Bowie and KISS',
-      "80's" => 'Michael Jackson, AC/DC, Van Halen, The Police, and Guns N’ Roses',
-      "90's" => 'Nirvana, Red Hot Chili Peppers, Pearl Jam, Metallica and Tool',
-      '2k+' => 'Radiohead, System of a Down, Foo Fighters, Gorillaz and Linkin Park'
+      "60's" => 'The Beatles, Bob Dylan, Elvis Presley, The Beach Boys and The Rolling Stones.',
+      "70's" => 'Led Zeppelin, Stevie Wonder, Pink Floyd, Queen, David Bowie and KISS.',
+      "80's" => 'Michael Jackson, AC/DC, Van Halen, The Police, and Guns N’ Roses.',
+      "90's" => 'Nirvana, Red Hot Chili Peppers, Pearl Jam, Metallica and Tool.',
+      '2k+' => 'Radiohead, System of a Down, Foo Fighters, Gorillaz and Linkin Park.'
     }
   end
 

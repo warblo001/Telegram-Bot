@@ -38,20 +38,20 @@ To get a local copy up and running follow these simple steps.
 
 ## Bot Instructions
 
-Tic-Tac-Toe is a very popular game, which consists in making a sequence of three symbols in either a row, column or diagonal in a 3x3 board.
+This Bot works only via Telegram, you can use it on your phone, Telegram Desktop app or Telegram Web.
 
-To play the game follow the getting started steps mentioned before. After you done that, run the "main" file and follow these steps:
+To use the bot you need to type "/start", then a couple of options will pop up:
 
-- First you need to introduce player one name.
-- Then you need to introduce player two name.
-- The game will display the board.
-- Player one choose a position in the board from 1 to 9 which is not occupied.
-- Player two choose a position in the board from 1 to 9 which is not occupied.
+![screenshot](Screenshots/screenshot_1.jpg)
 
-- You will have turns, in sequence until there is a winner or the board is full which would result in a tie.
-- If you want to play again you can type bin/main again and the game will reset.
-- Have fun!.
+- Playlists
+- Artists
+- Surprise!
 
+After you choose one category you will need to select the next category and depending on it you will get results
+
+![screenshot](Screenshots/screenshot_2.jpg)
+![screenshot](Screenshots/screenshot_3.jpg)
 
 ## Contributing
 
