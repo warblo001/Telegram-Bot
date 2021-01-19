@@ -5,14 +5,14 @@
 
 This project is a Telegram bot.
 
-This bot send you a list of Rock playlists and artists via Telegram.
+This bot sends you a list of Rock playlists and artists via Telegram.
 
 
 ## Milestones for this project:
 
 - First Milestone: Project setup.
 - Second Milestone: Trial deploy.
-- Third Milestone: Final touches and final deploy.
+- Third Milestone: Final touches and final deployment.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
 
