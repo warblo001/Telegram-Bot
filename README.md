@@ -32,9 +32,19 @@ To get a local copy up and running follow these simple steps.
 
 3. Press Enter.
 
-4. Once the repository has been cloned, navigate inside the repository and type: bin/ruby main.rb This will run the bot and you will be able to use it on the terminal and Telegram.
+4. Telegram BotFather:
 
-5. Enjoy the music!!
+You will need an active Telegram account, then look for the chat with BotFather, start the chat and follow the instructions to create a new bot, copy the token you got from BotFather and paste it in the bot.rb file on the token variable. (Click on the link BotFather sent to you for your bot and wait for step 8)
+
+5. Change the Chat id variable to your Telegram Name.
+
+6. Install required Dependencies by going into your terminal and type "run bundle install".
+
+7. Once the repository has been cloned, navigate inside the repository and type: "cd bin" to navigate to bin folder, then into the terminal/command prompt type "ruby main.rb" This will run the bot and then you will be able to use it on Telegram.
+
+8. Open the chat with your new bot clicking on "Start" on Telegram app.
+
+9. Enjoy the music!!
 
 ## Bot Instructions
 
@@ -52,6 +62,10 @@ After you choose one category you will need to select the next category and depe
 
 ![image](https://raw.githubusercontent.com/warblo001/Telegram-Bot/Features/Screenshots/Screenshot_2.jpg)
 ![image](https://raw.githubusercontent.com/warblo001/Telegram-Bot/Features/Screenshots/Screenshot_3.jpg)
+
+## Rspec Bot Instructions
+
+To run Rspec tests you will need to open the terminal then navigate to the Repository location on your machine and type "rspec --init", after that just type "rspec" on your terminal to run the tests and watch the results.
 
 ## Contributing
 
