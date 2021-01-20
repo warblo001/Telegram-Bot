@@ -7,8 +7,8 @@ class Bot
   include Choices
 
   def initialize
-    @token = '1306468071:AAHVxgz0mhrWSUvaqEUj3Y25lfJG9xhMIc0'
-    @chat_id = 'Alan'
+    @token = 'Copy your bot token here'
+    @chat_id = 'Put your Chat Id here'
     @playlist = {
       '0' => 'Top 500 classic Rock songs',
       '1' => 'Alternative rock of the 2000s',
